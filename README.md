@@ -1,0 +1,2 @@
+# prvniblog
+learning django
